@@ -202,21 +202,39 @@ sections:
     items:
     - certificate_url: ""
       date_end: ""
-      date_start: "2023-09-11T19:00:00Z"
-      description: "Gudied walk and talk"
-      organization: Thames Estuary Partnership
-      organization_url: "https://www.thamesestuarypartnership.org/"
-      title: A Short Introduction to the Thames Estuary - Guided Walk #TotallyThamesFest
-      url: "https://www.eventbrite.co.uk/e/a-short-introduction-to-the-thames-estuary-guided-walk-totallythamesfest-tickets-558646124597?aff=oddtdtcreator"
-      
-    - certificate_url: ""
-      date_end: ""
       date_start: "2024-01-11T19:00:00Z"
       description: "Virtual talk"
       organization: London Natural History Society
       organization_url: "https://www.lnhs.org.uk/"
       title: A Short Introduction to the Thames Estuary
       url: "https://www.eventbrite.co.uk/e/a-short-introduction-to-the-thames-estuary-by-wanda-bodnar-tickets-692714346257?aff=ebdsoporgprofile"
+      
+    - certificate_url: ""
+      date_end: ""
+      date_start: "2023-09-11T19:00:00Z"
+      description: "Guided walk and talk"
+      organization: Totally Thames Festival
+      organization_url: ""
+      title: A Short Introduction to the Thames Estuary
+      url: "https://www.eventbrite.co.uk/e/a-short-introduction-to-the-thames-estuary-guided-walk-totallythamesfest-tickets-558646124597?aff=oddtdtcreator"
+      
+    - certificate_url: ""
+      date_end: ""
+      date_start: "2023-06-11T19:00:00Z"
+      description: "Guided walk and talk"
+      organization: London Rivers Week
+      organization_url: ""
+      title: A Short Introduction to the Thames Estuary
+      url: ""
+      
+    - certificate_url: ""
+      date_end: ""
+      date_start: "2022-09-11T19:00:00Z"
+      description: "Guided walk and talk"
+      organization: Totally Thames Festival
+      organization_url: ""
+      title: A Short Introduction to the Thames Estuary
+      url: ""
       
     subtitle: null
     title: Talks
