@@ -195,15 +195,6 @@ sections:
       name: Tableau
     title: Skills
   id: skills
-  
-- block: collection
-  content:
-    date_format: Jan 2006
-    items:
-    title: Talks
-  design:
-    columns: "2"
-  id: talks
     
 - block: collection
   content:
