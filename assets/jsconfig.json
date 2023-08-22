@@ -1,6 +1,6 @@
 {
  "compilerOptions": {
-  "baseUrl": ".",
+  "baseUrl": "https://wandabodnar.netlify.app/",
   "paths": {
    "*": [
     "..\\themes\\github.com\\wowchemy\\wowchemy-hugo-themes\\modules\\wowchemy\\v5\\assets\\*"
