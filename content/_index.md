@@ -2,6 +2,7 @@
 date: "2022-10-24"
 
 sections:
+
 - block: about.biography
   content:
     title: Biography
@@ -204,7 +205,7 @@ sections:
     title: Talks
   design:
     columns: "2"
-    view: compact
   id: talks
+  
 type: landing
 ---
