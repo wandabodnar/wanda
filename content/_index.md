@@ -195,6 +195,15 @@ sections:
       name: Tableau
     title: Skills
   id: skills
+  
+- block: collection
+  content:
+    date_format: Jan 2006
+    items:
+    title: Talks
+  design:
+    columns: "2"
+  id: talks
     
 - block: collection
   content:
@@ -206,6 +215,5 @@ sections:
     columns: "2"
     view: compact
   id: talks
-title: null
 type: landing
 ---
