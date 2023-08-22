@@ -1,8 +1,8 @@
 ---
-cms_exclude: true
+cms_exclude: false
 header:
   caption: ""
   image: ""
 title: Talks
-view: 2
+view: 1
 ---
