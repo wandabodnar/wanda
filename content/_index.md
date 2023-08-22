@@ -44,34 +44,11 @@ sections:
       description: |2-
       location: London, UK
       title: Project Officer
-    title: Work Experience
+    title: Experience
   design:
     columns: "2"
-    
-- block: experience
-  content:
-    date_format: Jan 2006
-    items:
-    - company: STEM Ambassador Programme
-      company_logo: 
-      company_url: "https://www.stem.org.uk/stem-ambassadors"
-      date_end: ""
-      date_start: "2022-10-01"
-      description: |2-
-      location: London, UK
-      title: STEM Ambassador
-    - company: Living River Foundation
-      company_logo: 
-      company_url: "http://living-river.org/"
-      date_end: ""
-      date_start: "2021-07-01"
-      description: |2-
-      location: London, UK
-      title: Volunteer
-    title: Volunteering
-  design:
-    columns: "2"
-    
+  id: experience
+  
 - block: accomplishments
   content:
     date_format: Jan 2006
@@ -120,35 +97,32 @@ sections:
     title: Professional development
   design:
     columns: "2"
-
-- block: features
+  id: professionaldevelopment
+    
+- block: experience
   content:
+    date_format: Jan 2006
     items:
-    - description: 
-      icon: map-location
-      icon_pack: fas
-      name: ArcGIS
-    - description: 
-      icon: map-location-dot
-      icon_pack: fas
-      name: QGIS
-    - description: 
-      icon: r-project
-      icon_pack: fab
-      name: R-Studio
-    - description: 
-      icon: python
-      icon_pack: fab
-      name: Python
-    - description: 
-      icon: database
-      icon_pack: fa
-      name: SQL
-    - description: 
-      icon: table
-      icon_pack: fa
-      name: Tableau
-    title: Skills
+    - company: STEM Ambassador Programme
+      company_logo: 
+      company_url: "https://www.stem.org.uk/stem-ambassadors"
+      date_end: ""
+      date_start: "2022-10-01"
+      description: |2-
+      location: London, UK
+      title: STEM Ambassador
+    - company: Living River Foundation
+      company_logo: 
+      company_url: "http://living-river.org/"
+      date_end: ""
+      date_start: "2021-07-01"
+      description: |2-
+      location: London, UK
+      title: Volunteer
+    title: Volunteering
+  design:
+    columns: "2"
+  id: volunteering
 
 - block: accomplishments
   content:
@@ -190,6 +164,37 @@ sections:
     title: Qualifications
   design:
     columns: "2"
+  id: qualifications
+
+- block: features
+  content:
+    items:
+    - description: 
+      icon: map-location
+      icon_pack: fas
+      name: ArcGIS
+    - description: 
+      icon: map-location-dot
+      icon_pack: fas
+      name: QGIS
+    - description: 
+      icon: r-project
+      icon_pack: fab
+      name: R-Studio
+    - description: 
+      icon: python
+      icon_pack: fab
+      name: Python
+    - description: 
+      icon: database
+      icon_pack: fa
+      name: SQL
+    - description: 
+      icon: table
+      icon_pack: fa
+      name: Tableau
+    title: Skills
+  id: skills
     
 - block: collection
   content:
