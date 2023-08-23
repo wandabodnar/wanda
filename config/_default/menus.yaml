@@ -9,22 +9,25 @@ main:
     weight: 10
   - name: Experience
     url: '#experience'
-    weight: 10
+    weight: 20
   - name: Volunteering
     url: '#volunteering'
-    weight: 10
+    weight: 30
   - name: Professional development
     url: '#professionaldevelopment'
-    weight: 10
-  - name: Skills
-    url: '#skills'
     weight: 40
   - name: Qualifications
     url: '#qualifications'
-    weight: 40
+    weight: 50
+  - name: Skills
+    url: '#skills'
+    weight: 60
+  - name: Selected publications
+    url: '#selectedpublications'
+    weight: 70
   - name: Talks
     url: '#talks'
-    weight: 40
+    weight: 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
