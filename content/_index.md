@@ -125,6 +125,36 @@ sections:
     columns: "2"
   id: professionaldevelopment
 
+- block: features
+  content:
+    items:
+    - description: 
+      icon: map-location
+      icon_pack: fas
+      name: ArcGIS
+    - description: 
+      icon: map-location-dot
+      icon_pack: fas
+      name: QGIS
+    - description: 
+      icon: r-project
+      icon_pack: fab
+      name: R-Studio
+    - description: 
+      icon: python
+      icon_pack: fab
+      name: Python
+    - description: 
+      icon: database
+      icon_pack: fa
+      name: SQL
+    - description: 
+      icon: table
+      icon_pack: fa
+      name: Tableau
+    title: Skills
+  id: skills
+
 - block: accomplishments
   content:
     date_format: Jan 2006
@@ -167,36 +197,6 @@ sections:
     columns: "2"
   id: qualifications
 
-- block: features
-  content:
-    items:
-    - description: 
-      icon: map-location
-      icon_pack: fas
-      name: ArcGIS
-    - description: 
-      icon: map-location-dot
-      icon_pack: fas
-      name: QGIS
-    - description: 
-      icon: r-project
-      icon_pack: fab
-      name: R-Studio
-    - description: 
-      icon: python
-      icon_pack: fab
-      name: Python
-    - description: 
-      icon: database
-      icon_pack: fa
-      name: SQL
-    - description: 
-      icon: table
-      icon_pack: fa
-      name: Tableau
-    title: Skills
-  id: skills
-
 - block: accomplishments
   content:
     items:
@@ -206,6 +206,14 @@ sections:
       organization: Talk of the Thames
       organization_url: "https://talkofthethames.buzzsprout.com/1110509/12997613-paddleboarding-london-an-immersive-journey-along-the-thames"
       title: Paddleboarding London - An Immersive Journey along the Thames
+      url: ""
+      
+    - date_end: ""
+      date_start: "2023-04-11T19:00:00Z"
+      description: Other Writing for a Popular Audience
+      organization: 
+      organization_url: "https://www.storymaps.com/collections/561931d0166149a297322be2597e86c2"
+      title: Magyar Tengerkutatás / Hungarian Marine Science
       url: ""
       
     - date_end: ""
@@ -238,6 +246,14 @@ sections:
       organization: Kalerrâ
       organization_url: "https://open.spotify.com/episode/1RznflqR62EZQGdC0Mk80j?si=0120accf060f4449&nd=1"
       title: Expedition to Weisboydlund, Greenland
+      url: ""
+      
+    - date_end: ""
+      date_start: "2020-06-11T19:00:00Z"
+      description: Other Writing for a Popular Audience
+      organization: Thames Estuary Partnership
+      organization_url: "https://storymaps.arcgis.com/stories/c109194526314c848413ad778d903992"
+      title: The Tidal Thames
       url: ""
       
     - date_end: ""
