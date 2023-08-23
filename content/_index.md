@@ -204,17 +204,17 @@ sections:
       date_start: "2023-06-11T19:00:00Z"
       description: Podcast episode
       organization: Talk of the Thames
-      organization_url: "https://talkofthethames.buzzsprout.com/1110509/12997613-paddleboarding-london-an-immersive-journey-along-the-thames"
+      organization_url: ""
       title: Paddleboarding London - An Immersive Journey along the Thames
-      url: ""
+      url: "https://talkofthethames.buzzsprout.com/1110509/12997613-paddleboarding-london-an-immersive-journey-along-the-thames"
       
     - date_end: ""
       date_start: "2023-04-11T19:00:00Z"
       description: Other Writing for a Popular Audience
       organization: 
-      organization_url: "https://www.storymaps.com/collections/561931d0166149a297322be2597e86c2"
+      organization_url: ""
       title: Magyar Tengerkutatás / Hungarian Marine Science
-      url: ""
+      url: "https://www.storymaps.com/collections/561931d0166149a297322be2597e86c2"
       
     - date_end: ""
       date_start: "2022-11-11T19:00:00Z"
@@ -228,49 +228,49 @@ sections:
       date_start: "2022-09-11T19:00:00Z"
       description: Podcast episode
       organization: Talk of the Thames
-      organization_url: "https://talkofthethames.buzzsprout.com/1110509/11413082-totally-thames-festival-2022-join-us-on-our-guided-tour-and-sound-walk-at-the-greenwich-peninsula"
+      organization_url: ""
       title: Join Us On Our Guided Tour and Sound Walk at the Greenwich Peninsula
-      url: ""
+      url: "https://talkofthethames.buzzsprout.com/1110509/11413082-totally-thames-festival-2022-join-us-on-our-guided-tour-and-sound-walk-at-the-greenwich-peninsula"
       
     - date_end: ""
       date_start: "2021-12-11T19:00:00Z"
       description: Journal article
       organization: The London Naturalist 2021
-      organization_url: "https://zenodo.org/record/5750302"
+      organization_url: ""
       title: An integrated GIS-based approach to improve fish migration within the Greater Thames Estuary
-      url: ""
+      url: "https://zenodo.org/record/5750302"
       
     - date_end: ""
       date_start: "2021-03-11T19:00:00Z"
       description: Podcast episode
       organization: Kalerrâ
-      organization_url: "https://open.spotify.com/episode/1RznflqR62EZQGdC0Mk80j?si=0120accf060f4449&nd=1"
+      organization_url: ""
       title: Expedition to Weisboydlund, Greenland
-      url: ""
+      url: "https://open.spotify.com/episode/1RznflqR62EZQGdC0Mk80j?si=0120accf060f4449&nd=1"
       
     - date_end: ""
       date_start: "2020-06-11T19:00:00Z"
       description: Other Writing for a Popular Audience
       organization: Thames Estuary Partnership
-      organization_url: "https://storymaps.arcgis.com/stories/c109194526314c848413ad778d903992"
+      organization_url: ""
       title: The Tidal Thames
-      url: ""
+      url: "https://storymaps.arcgis.com/stories/c109194526314c848413ad778d903992"
       
     - date_end: ""
       date_start: "2017-08-11T19:00:00Z"
       description: Journal article
       organization: PLOS ONE
-      organization_url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181531"
+      organization_url: ""
       title: Response of *Posidonia oceanica* seagrass and its epibiont communities to ocean acidification
-      url: ""
+      url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181531"
     
     - date_end: ""
       date_start: "2016-03-11T19:00:00Z"
       description: Journal article
       organization: Frontiers in Ecology and Evolution
-      organization_url: "https://www.frontiersin.org/articles/10.3389/fevo.2016.00019/full"
+      organization_url: ""
       title: Burrowing Behavior of a Deposit Feeding Bivalve Predicts Change in Intertidal Ecosystem State
-      url: ""
+      url: "https://www.frontiersin.org/articles/10.3389/fevo.2016.00019/full"
     
     subtitle: null
     title: Selected publications
@@ -293,35 +293,17 @@ sections:
     - certificate_url: ""
       date_end: ""
       date_start: "2023-09-11T19:00:00Z"
-      description: "Guided walk and talk"
+      description: "Guided walk & talk"
       organization: Totally Thames Festival
       organization_url: ""
       title: A Short Introduction to the Thames Estuary
       url: "https://www.eventbrite.co.uk/e/a-short-introduction-to-the-thames-estuary-guided-walk-totallythamesfest-tickets-558646124597?aff=oddtdtcreator"
       
-    - certificate_url: ""
-      date_end: ""
-      date_start: "2023-06-11T19:00:00Z"
-      description: "Guided walk and talk"
-      organization: London Rivers Week
-      organization_url: ""
-      title: A Short Introduction to the Thames Estuary
-      url: ""
-      
-    - certificate_url: ""
-      date_end: ""
-      date_start: "2022-09-11T19:00:00Z"
-      description: "Guided walk and talk"
-      organization: Totally Thames Festival
-      organization_url: ""
-      title: A Short Introduction to the Thames Estuary
-      url: ""
-      
     subtitle: null
-    title: Talks
+    title: Upcoming talks
   design:
     columns: "2"
-  id: talks
+  id: upcomingtalks
   
 type: landing
 ---
