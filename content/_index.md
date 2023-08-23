@@ -50,6 +50,31 @@ sections:
     columns: "2"
   id: experience
   
+- block: experience
+  content:
+    date_format: Jan 2006
+    items:
+    - company: STEM Ambassador Programme
+      company_logo: 
+      company_url: "https://www.stem.org.uk/stem-ambassadors"
+      date_end: ""
+      date_start: "2022-10-01"
+      description: |2-
+      location: London, UK
+      title: STEM Ambassador
+    - company: Living River Foundation
+      company_logo: 
+      company_url: "http://living-river.org/"
+      date_end: ""
+      date_start: "2021-07-01"
+      description: |2-
+      location: London, UK
+      title: Volunteer
+    title: Volunteering
+  design:
+    columns: "2"
+  id: volunteering
+  
 - block: accomplishments
   content:
     date_format: Jan 2006
@@ -99,31 +124,6 @@ sections:
   design:
     columns: "2"
   id: professionaldevelopment
-    
-- block: experience
-  content:
-    date_format: Jan 2006
-    items:
-    - company: STEM Ambassador Programme
-      company_logo: 
-      company_url: "https://www.stem.org.uk/stem-ambassadors"
-      date_end: ""
-      date_start: "2022-10-01"
-      description: |2-
-      location: London, UK
-      title: STEM Ambassador
-    - company: Living River Foundation
-      company_logo: 
-      company_url: "http://living-river.org/"
-      date_end: ""
-      date_start: "2021-07-01"
-      description: |2-
-      location: London, UK
-      title: Volunteer
-    title: Volunteering
-  design:
-    columns: "2"
-  id: volunteering
 
 - block: accomplishments
   content:
@@ -196,6 +196,71 @@ sections:
       name: Tableau
     title: Skills
   id: skills
+
+- block: accomplishments
+  content:
+    items:
+    - date_end: ""
+      date_start: "2023-06-11T19:00:00Z"
+      description: Podcast episode
+      organization: Talk of the Thames
+      organization_url: "https://talkofthethames.buzzsprout.com/1110509/12997613-paddleboarding-london-an-immersive-journey-along-the-thames"
+      title: Paddleboarding London - An Immersive Journey along the Thames
+      url: ""
+      
+    - date_end: ""
+      date_start: "2022-11-11T19:00:00Z"
+      description: Book chapter
+      organization: West London Wildlife
+      organization_url: "https://www.aurorametro.com/product/west-london-wildlife-book/"
+      title: The Upper Thames Estuary
+      url: ""
+    
+    - date_end: ""
+      date_start: "2022-09-11T19:00:00Z"
+      description: Podcast episode
+      organization: Talk of the Thames
+      organization_url: "https://talkofthethames.buzzsprout.com/1110509/11413082-totally-thames-festival-2022-join-us-on-our-guided-tour-and-sound-walk-at-the-greenwich-peninsula"
+      title: Join Us On Our Guided Tour and Sound Walk at the Greenwich Peninsula
+      url: ""
+      
+    - date_end: ""
+      date_start: "2021-12-11T19:00:00Z"
+      description: Journal article
+      organization: The London Naturalist 2021
+      organization_url: "https://zenodo.org/record/5750302"
+      title: An integrated GIS-based approach to improve fish migration within the Greater Thames Estuary
+      url: ""
+      
+    - date_end: ""
+      date_start: "2021-03-11T19:00:00Z"
+      description: Podcast episode
+      organization: Kalerrâ
+      organization_url: "https://open.spotify.com/episode/1RznflqR62EZQGdC0Mk80j?si=0120accf060f4449&nd=1"
+      title: Expedition to Weisboydlund, Greenland
+      url: ""
+      
+    - date_end: ""
+      date_start: "2017-08-11T19:00:00Z"
+      description: Journal article
+      organization: PLOS ONE
+      organization_url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181531"
+      title: Response of *Posidonia oceanica* seagrass and its epibiont communities to ocean acidification
+      url: ""
+    
+    - date_end: ""
+      date_start: "2016-03-11T19:00:00Z"
+      description: Journal article
+      organization: Frontiers in Ecology and Evolution
+      organization_url: "https://www.frontiersin.org/articles/10.3389/fevo.2016.00019/full"
+      title: Burrowing Behavior of a Deposit Feeding Bivalve Predicts Change in Intertidal Ecosystem State
+      url: ""
+    
+    subtitle: null
+    title: Selected publications
+  design:
+    columns: "2"
+  id: selectedpublications
   
 - block: accomplishments
   content:
