@@ -131,19 +131,19 @@ sections:
     - description: 
       icon: map-location
       icon_pack: fas
-      name: ArcGIS
-    - description: 
-      icon: map-location-dot
-      icon_pack: fas
-      name: QGIS
+      name: ArcGIS, QGIS
     - description: 
       icon: r-project
       icon_pack: fab
-      name: R-Studio
+      name: R
     - description: 
       icon: python
       icon_pack: fab
       name: Python
+    - description: 
+      icon: github
+      icon_pack: fab
+      name: Github
     - description: 
       icon: database
       icon_pack: fa
