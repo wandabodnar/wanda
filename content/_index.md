@@ -204,7 +204,7 @@ sections:
       date_start: "2023-06-11T19:00:00Z"
       description: Podcast episode
       organization: Talk of the Thames
-      organization_url: ""
+      organization_url: "https://talkofthethames.buzzsprout.com/"
       title: Paddleboarding London - An Immersive Journey along the Thames
       url: "https://talkofthethames.buzzsprout.com/1110509/12997613-paddleboarding-london-an-immersive-journey-along-the-thames"
       
@@ -228,7 +228,7 @@ sections:
       date_start: "2022-09-11T19:00:00Z"
       description: Podcast episode
       organization: Talk of the Thames
-      organization_url: ""
+      organization_url: "https://talkofthethames.buzzsprout.com/"
       title: Join Us On Our Guided Tour and Sound Walk at the Greenwich Peninsula
       url: "https://talkofthethames.buzzsprout.com/1110509/11413082-totally-thames-festival-2022-join-us-on-our-guided-tour-and-sound-walk-at-the-greenwich-peninsula"
       
@@ -236,9 +236,17 @@ sections:
       date_start: "2021-12-11T19:00:00Z"
       description: Journal article
       organization: The London Naturalist 2021
-      organization_url: ""
+      organization_url: "https://www.lnhs.org.uk/index.php/publications/the-london-naturalist"
       title: An integrated GIS-based approach to improve fish migration within the Greater Thames Estuary
       url: "https://zenodo.org/record/5750302"
+      
+    - date_end: ""
+      date_start: "2022-06-11T19:00:00Z"
+      description: Other Writing for a Popular Audience
+      organization: Paddler Magazine
+      organization_url: "https://paddlerezine.com/"
+      title: Discover the Tidal Thames
+      url: "https://paddlerezine.com/tidal-thames/"
       
     - date_end: ""
       date_start: "2021-03-11T19:00:00Z"
@@ -252,7 +260,7 @@ sections:
       date_start: "2020-06-11T19:00:00Z"
       description: Other Writing for a Popular Audience
       organization: Thames Estuary Partnership
-      organization_url: ""
+      organization_url: "https://www.thamesestuarypartnership.org/"
       title: The Tidal Thames
       url: "https://storymaps.arcgis.com/stories/c109194526314c848413ad778d903992"
       
@@ -271,6 +279,14 @@ sections:
       organization_url: ""
       title: Burrowing Behavior of a Deposit Feeding Bivalve Predicts Change in Intertidal Ecosystem State
       url: "https://www.frontiersin.org/articles/10.3389/fevo.2016.00019/full"
+    
+    - date_end: ""
+      date_start: "2013-06-11T19:00:00Z"
+      description: MSc Thesis
+      organization: Universiteit Antwerpen/Universiteit Gent/VUB
+      organization_url: ""
+      title: Meiofauna associated with seagrasses at natural CO2 seeps in the Mediterranean Sea
+      url: "https://www.marinespecies.org/imis.php?module=ref&refid=247740"
     
     subtitle: null
     title: Selected publications
