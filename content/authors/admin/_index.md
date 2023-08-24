@@ -3,10 +3,10 @@ bio: I am a Chartered Marine Scientist with an interest in geospatial data scien
 education:
   courses:
   - course: MSc in Marine and Lacustrince Science and Management
-    institution: Vrije Univeriteit Brussel (VUB)
+    institution: Vrije Univeriteit Brussel (VUB), Belgium
     year: 2013
   - course: BSc in Biology and Physical Education with teaching qualification
-    institution: Eötvös Loránd University (ELTE)
+    institution: Eötvös Loránd University (ELTE), Hungary
     year: 2006
 email: ""
 first_name: Wanda
@@ -16,7 +16,7 @@ interests:
 - The Thames Estuary
 - Climate Science
 - Data Science
-- Geographical Information System
+- Geographic Information System
 - Stand Up Paddleboarding
 last_name: Bodnar
 organizations:
