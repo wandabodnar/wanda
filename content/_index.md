@@ -308,12 +308,12 @@ sections:
       
     - certificate_url: ""
       date_end: ""
-      date_start: "2023-09-11T19:00:00Z"
-      description: "Guided walk & talk"
-      organization: Totally Thames Festival
+      date_start: "2023-11-29T12:00:00Z"
+      description: "Virtual talk"
+      organization: Institution of Environmental Sciences
       organization_url: ""
-      title: A Short Introduction to the Thames Estuary
-      url: "https://www.eventbrite.co.uk/e/a-short-introduction-to-the-thames-estuary-guided-walk-totallythamesfest-tickets-558646124597?aff=oddtdtcreator"
+      title: #IESTurningTheTide - Tides of Change: Exploring the Resilience and Restoration of the Thames Estuary
+      url: "https://www.the-ies.org/events/iesturningthetide-tides-change"
       
     subtitle: null
     title: Upcoming talks
