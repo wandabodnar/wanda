@@ -312,7 +312,7 @@ sections:
       description: "Virtual talk"
       organization: Institution of Environmental Sciences
       organization_url: ""
-      title: #IESTurningTheTide - Tides of Change: Exploring the Resilience and Restoration of the Thames Estuary
+      title: Tides of Change: Exploring the Resilience and Restoration of the Thames Estuary
       url: "https://www.the-ies.org/events/iesturningthetide-tides-change"
       
     subtitle: null
