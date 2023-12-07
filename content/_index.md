@@ -313,7 +313,7 @@ sections:
       organization: Institution of Environmental Sciences
       organization_url: ""
       title: Exploring the Resilience and Restoration of the Thames Estuary
-      url: "https://www.the-ies.org/events/iesturningthetide-tides-change"
+      url: "https://www.the-ies.org/analysis/iesturningthetide-tidesofchange"
       
     subtitle: null
     title: Upcoming talks
