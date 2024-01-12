@@ -36,6 +36,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/wandabodnar/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/@wandabodnar
 superuser: true
 title: Wanda Bodnar
 ---
