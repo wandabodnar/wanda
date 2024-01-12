@@ -319,7 +319,7 @@ sections:
     title: Upcoming talks
   design:
     columns: "2"
-  id: upcomingtalks
+  id: talks
   
 type: landing
 ---
