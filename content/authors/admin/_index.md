@@ -39,6 +39,9 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/@wandabodnar
+- icon: cv
+  icon_pack: ai
+  link: https://wandabodnar.github.io/wanda/CV_WandaBodnar.pdf
 superuser: true
 title: Wanda Bodnar
 ---
