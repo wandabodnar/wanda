@@ -25,8 +25,8 @@ main:
   - name: Selected publications
     url: '#selectedpublications'
     weight: 70
-  - name: Upcoming talks
-    url: '#upcomingtalks'
+  - name: Talks
+    url: '#talks'
     weight: 80
 
 
