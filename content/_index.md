@@ -316,7 +316,7 @@ sections:
       url: "https://www.the-ies.org/analysis/iesturningthetide-tidesofchange"
       
     subtitle: null
-    title: Upcoming talks
+    title: Talks
   design:
     columns: "2"
   id: talks
