@@ -297,7 +297,7 @@ sections:
 - block: accomplishments
   content:
     items:
-  - certificate_url: ""
+    - certificate_url: ""
       date_end: ""
       date_start: "2024-09-26T19:00:00Z"
       description: "Virtual talk"
@@ -305,7 +305,7 @@ sections:
       organization_url: "https://www.lnhs.org.uk/"
       title: Fishes and Habitats of the Thames Estuary
       url: "https://www.eventbrite.co.uk/e/fishes-and-habitats-of-the-thames-estuary-by-wanda-bodnar-tickets-699856007157"
-    
+      
     - certificate_url: ""
       date_end: ""
       date_start: "2024-01-11T19:00:00Z"
@@ -313,7 +313,7 @@ sections:
       organization: London Natural History Society
       organization_url: "https://www.lnhs.org.uk/"
       title: A Short Introduction to the Thames Estuary
-      url: "https://www.youtube.com/watch?v=4OdbWZ6_wgs"
+      url: "https://www.eventbrite.co.uk/e/a-short-introduction-to-the-thames-estuary-by-wanda-bodnar-tickets-692714346257?aff=ebdsoporgprofile"
       
     - certificate_url: ""
       date_end: ""
