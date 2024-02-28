@@ -304,7 +304,7 @@ sections:
       organization: London Natural History Society
       organization_url: "https://www.lnhs.org.uk/"
       title: Fishes and Habitats of the Thames Estuary
-      url: "https://www.eventbrite.co.uk/e/fishes-and-habitats-of-the-thames-estuary-by-wanda-bodnar-tickets-699856007157?aff=ebdsoporgprofile"
+      url: "https://www.eventbrite.co.uk/e/fishes-and-habitats-of-the-thames-estuary-by-wanda-bodnar-tickets-699856007157"
     
     - certificate_url: ""
       date_end: ""
