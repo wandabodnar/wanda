@@ -313,7 +313,7 @@ sections:
       organization: London Natural History Society
       organization_url: "https://www.lnhs.org.uk/"
       title: A Short Introduction to the Thames Estuary
-      url: "https://www.eventbrite.co.uk/e/a-short-introduction-to-the-thames-estuary-by-wanda-bodnar-tickets-692714346257?aff=ebdsoporgprofile"
+      url: "https://www.youtube.com/watch?v=4OdbWZ6_wgs"
       
     - certificate_url: ""
       date_end: ""
