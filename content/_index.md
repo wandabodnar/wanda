@@ -305,6 +305,15 @@ sections:
       organization_url: "https://www.lnhs.org.uk/"
       title: Fishes and Habitats of the Thames Estuary
       url: "https://www.eventbrite.co.uk/e/fishes-and-habitats-of-the-thames-estuary-by-wanda-bodnar-tickets-699856007157"
+
+    - certificate_url: ""
+      date_end: ""
+      date_start: "2024-09-26T19:00:00Z"
+      description: "Face to face"
+      organization: London Freshwater Group Spring 2024 Meeting
+      organization_url: "https://www.londonfreshwatergroup.co.uk/"
+      title: Fish utilisation of bioengineered intertidal habitats in the Thames Estuary
+      url: "https://www.eventbrite.com/e/london-freshwater-group-spring-2024-meeting-tickets-857294941247?aff=oddtdtcreator"
       
     - certificate_url: ""
       date_end: ""
