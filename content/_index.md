@@ -308,7 +308,7 @@ sections:
 
     - certificate_url: ""
       date_end: ""
-      date_start: "2024-03-15T15:55:00Z"
+      date_start: "2024-03-15T00:00:00Z"
       description: "Face to face"
       organization: London Freshwater Group Spring 2024 Meeting
       organization_url: "https://www.londonfreshwatergroup.co.uk/"
