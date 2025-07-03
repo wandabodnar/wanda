@@ -1,0 +1,10 @@
+main:
+  - name: Biography
+    url: '#about'
+    weight: 10
+  - name: Research
+    url: 'https://wandabodnar.github.io/phd/'
+    weight: 20
+  - name: Portfolio
+    url: '#portfolio'
+    weight: 20
