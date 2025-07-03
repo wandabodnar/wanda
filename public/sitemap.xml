@@ -144,8 +144,5 @@
   </url><url>
     <loc>https://example.com/project/7/</loc>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/project/6/</loc>
-    <changefreq>weekly</changefreq>
   </url>
 </urlset>
