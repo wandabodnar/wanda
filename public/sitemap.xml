@@ -136,9 +136,6 @@
     <loc>https://example.com/project/1/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/4/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/project/</loc>
     <changefreq>weekly</changefreq>
   </url><url>

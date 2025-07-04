@@ -48,6 +48,8 @@ superuser: true
 title: Wanda Bodnar
 ---
 
-I am a Chartered Marine Scientist with diverse experience across academia, industry (offshore), and the charity sector. For over eight years, I have worked on aquatic habitat conservation, restoration, and climate resilience projects in the Thames Estuary. I also lead ecology-focused stand-up paddleboarding (SUP) sessions, blending natural history education with outdoor activities. Currently, I am a research student at the London NERC Doctoral Training Partnership programme.
+I am a Chartered Marine Scientist with diverse experience across academia, industry (offshore), and the charity sector. For over eight years, I have worked on aquatic habitat conservation, restoration, and climate resilience projects in the Thames Estuary. I also lead ecology-focused stand-up paddleboarding (SUP) sessions, blending natural history education with outdoor activities. 
+
+Currently, I am a research student at the London NERC Doctoral Training Partnership programme.
 
 {style="text-align: justify;"}

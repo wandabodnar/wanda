@@ -6,6 +6,12 @@ sections:
     title: About
     username: admin
   id: about
+
+- block: about.biography
+  content:
+    title: Research
+    username: research
+  id: research
   
 - block: portfolio
   content:
