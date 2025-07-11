@@ -3,7 +3,7 @@ bio: I am a Chartered Marine Scientist with an interest in geospatial data scien
 education:
   courses:
   - course: Research student
-    institution:  London NERC Doctoral Training Partnership, United Kingdom
+    institution:  Queen Mary University of London (QMUL), Institute of Zoology (IoZ) and University College London (UCL) as part of the London NERC Doctoral Training Partnership, United Kingdom
     year: 2024 - present
   - course: MSc in Marine and Lacustrince Science and Management
     institution: Vrije Universiteit Brussel (VUB), Universiteit Antwerpen (UA), Universiteit Gent (UGent), Belgium
@@ -34,16 +34,13 @@ social:
   link: https://wandabodnar.github.io/CV_WandaBodnar.pdf
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=jJDYa2sAAAAJ&hl=en
+  link: https://scholar.google.com/citations?hl=en&user=jJDYa2sAAAAJ&view_op=list_works&sortby=pubdate
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/wandabodnar/
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/@wandabodnar
-- icon: fish
-  icon_pack: fas
-  link: https://www.zsl.org/about-zsl/our-people/wanda-bodnar
 superuser: true
 title: Wanda Bodnar
 ---
